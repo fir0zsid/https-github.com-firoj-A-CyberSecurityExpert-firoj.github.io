@@ -1,0 +1,12 @@
+body{
+  background-color: rgba(0, 123, 255, 0.75);
+}
+.card{
+  display: flex;
+  margin: 20px 160px 20px 160px;
+
+}
+
+.middle{
+  width: 600px;
+}
